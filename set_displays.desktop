@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=~/.config/autostart/set_all_displays.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Set Display
+Name=Set Display
+Comment[en_US]=Set display scaling and resolution
+Comment=Set display scaling and resolution
